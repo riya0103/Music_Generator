@@ -1,4 +1,3 @@
-pip install replicate
 from flask import Flask, request, render_template
 import sqlite3
 import datetime
